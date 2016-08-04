@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="qyzb-core"
+  id="myeclipse.1467937997198"
+  context-root="/core"
+  j2ee-spec="6.0"
+  archive="qyzb-core.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
